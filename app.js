@@ -2,7 +2,7 @@ const form = document.getElementById("contactForm");
 const statusMessage = document.getElementById("formStatus");
 
 // CHANGE THIS to your client's real WhatsApp number later
-const whatsappNumber = "2347043143341";
+const whatsappNumber = "2349032020918";
 
 form.addEventListener("submit", function (e) {
   e.preventDefault();
